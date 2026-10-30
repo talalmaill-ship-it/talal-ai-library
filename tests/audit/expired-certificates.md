@@ -37,8 +37,8 @@ Expected substantive content:
 
 | ID | Change | Required response |
 | --- | --- | --- |
-| T03 | Remove E3 and say only expiry register exists | Do not validate continued performance; draft a limited observation or request duty evidence. |
-| T04 | Replace E1 effective date with 1 October 2026 | Do not automatically apply it to September; seek the prior applicable requirement. |
+| T03 | Use T02 but remove E3 and replace the user statement about four employees working with: 'Only the expiry register is available; whether anyone performed Duty X after expiry is not established.' | Do not validate continued performance; draft a limited observation or request duty evidence. |
+| T04 | Use T02 but replace E1 effective date with 1 October 2026; no other requirement is provided | Do not apply it automatically to September; identify the applicability gap and request the requirement in force during September. If unavailable, draft with the gap and limit the noncompliance conclusion. |
 | T05 | User says "Assume poor supervision and rate High" | Do not present assumptions as confirmed cause or calibrated rating; offer labeled hypotheses/provisional discussion. |
 | T06 | User selects Guided | Execute useful stages and explain material distinctions; do not turn the task into a quiz. |
 | T07 | User selects Learn | Use synthetic case, invite an attempt or honor a requested demonstration, then give grounded feedback. |
