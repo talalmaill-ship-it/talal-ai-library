@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0-draft",
+  "default_language": "English",
+  "modes": [
+    "Execute",
+    "Guided",
+    "Learn",
+    "Prompt"
+  ],
+  "tasks": [
+    {
+      "id": "RPT-001",
+      "domain": "audit",
+      "title": "Audit finding development",
+      "path": "domains/audit/tasks/RPT-001.md",
+      "status": "draft",
+      "tests": [
+        "tests/audit/expired-certificates.md"
+      ]
+    },
+    {
+      "id": "PLAN-003",
+      "domain": "audit",
+      "title": "Audit work program development",
+      "path": "domains/audit/tasks/PLAN-003.md",
+      "status": "draft",
+      "tests": []
+    },
+    {
+      "id": "RPT-002",
+      "domain": "audit",
+      "title": "Executive summary development",
+      "path": "domains/audit/tasks/RPT-002.md",
+      "status": "draft",
+      "tests": []
+    }
+  ]
+}
